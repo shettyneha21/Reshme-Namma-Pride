@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reshme-Namma Pride</string>
+    <string name="tagline">AI-Powered Sericulture Guard</string>
+    <string name="nav_home">My Batches</string>
+    <string name="nav_history">History</string>
+    <string name="btn_new_batch">+ New Batch</string>
+    <string name="btn_enter_climate">Enter Climate Reading</string>
+    <string name="btn_harvest">Log Harvest</string>
+    <string name="btn_submit">Get AI Advice</string>
+    <string name="label_temperature">Temperature (°C)</string>
+    <string name="label_humidity">Humidity (%)</string>
+    <string name="hint_temperature">Enter temperature (10–45°C)</string>
+    <string name="hint_humidity">Enter humidity (10–100%)</string>
+    <string name="hint_breed">e.g., PM x NB4D2</string>
+    <string name="label_breed">Silkworm Breed</string>
+    <string name="label_start_date">Batch Start Date</string>
+    <string name="empty_batches">No active batches.\nTap + to start a new batch.</string>
+    <string name="empty_history">No batch history yet.\nCompleted batches will appear here.</string>
+</resources>

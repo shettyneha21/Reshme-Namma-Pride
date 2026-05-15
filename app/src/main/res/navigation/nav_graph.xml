@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.reshmenamma.pride.ui.home.HomeFragment"
+        android:label="My Batches"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_home_to_newBatch"
+            app:destination="@id/newBatchFragment" />
+
+        <action
+            android:id="@+id/action_home_to_batchDetail"
+            app:destination="@id/climateEntryFragment" />
+
+        <action
+            android:id="@+id/action_home_to_harvest"
+            app:destination="@id/harvestFragment" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/newBatchFragment"
+        android:name="com.reshmenamma.pride.ui.home.NewBatchFragment"
+        android:label="New Batch"
+        tools:layout="@layout/fragment_new_batch" />
+
+    <fragment
+        android:id="@+id/climateEntryFragment"
+        android:name="com.reshmenamma.pride.ui.climate.ClimateEntryFragment"
+        android:label="Climate Entry"
+        tools:layout="@layout/fragment_climate_entry" />
+
+    <fragment
+        android:id="@+id/harvestFragment"
+        android:name="com.reshmenamma.pride.ui.harvest.HarvestFragment"
+        android:label="Log Harvest"
+        tools:layout="@layout/fragment_harvest" />
+
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.reshmenamma.pride.ui.history.HistoryFragment"
+        android:label="History"
+        tools:layout="@layout/fragment_history" />
+
+</navigation>
