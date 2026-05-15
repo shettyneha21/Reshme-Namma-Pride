@@ -37,7 +37,7 @@ Karnataka is the silk capital of India, but silkworms are extremely sensitive to
 ### 1. Home Screen
 Create a new silkworm batch using breed and start date.
 
-<img width="1080" height="320" alt="Home screen" src="https://github.com/user-attachments/assets/6c49fd3d-7196-4fd8-8f3b-0c7e6589ae83" />
+<img width="300" alt="Home screen" src="https://github.com/user-attachments/assets/6c49fd3d-7196-4fd8-8f3b-0c7e6589ae83" />
 
 ### 2. Batch Tracking
 View active batches, Instar stage, and days left for harvest. The application tracks all five Instar stages of silkworm growth and updates the current stage based on batch progress. 
