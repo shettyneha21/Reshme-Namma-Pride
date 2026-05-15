@@ -42,58 +42,58 @@ Create a new silkworm batch using breed and start date.
 ### 2. Batch Tracking
 View active batches, Instar stage, and days left for harvest. The application tracks all five Instar stages of silkworm growth and updates the current stage based on batch progress. 
 
-<img width="1080" height="2175" alt="Batch Tracking" src="https://github.com/user-attachments/assets/b00139c5-75b5-4f4d-9b38-28eb5c626676" />
+<img width="1080" alt="Batch Tracking" src="https://github.com/user-attachments/assets/b00139c5-75b5-4f4d-9b38-28eb5c626676" />
 
-<img width="1080" height="2166" alt="Batch Tracking" src="https://github.com/user-attachments/assets/82d1bb89-de4f-4d3c-888a-30cf061dec1a" />
+<img width="1080" alt="Batch Tracking" src="https://github.com/user-attachments/assets/82d1bb89-de4f-4d3c-888a-30cf061dec1a" />
 
 ### 3. Climate Entry
 Enter morning, afternoon, and evening temperature/humidity readings.
 
-<img width="1080" height="2190" alt="Climate Entry" src="https://github.com/user-attachments/assets/d03958bc-f6ec-4d2d-9c9d-00d0bb3b2b22" />
+<img width="1080" alt="Climate Entry" src="https://github.com/user-attachments/assets/d03958bc-f6ec-4d2d-9c9d-00d0bb3b2b22" />
 
 ### 4. Climate Status
 Safe / Caution / Danger based on entered values.
 
-<img width="1080" height="2190" alt="Climate Status-Safe" src="https://github.com/user-attachments/assets/851c3ef9-25dc-45ed-b875-4f10f675927e" />
+<img width="1080" alt="Climate Status-Safe" src="https://github.com/user-attachments/assets/851c3ef9-25dc-45ed-b875-4f10f675927e" />
 
-<img width="1080" height="2160" alt="Climate Status-Caution" src="https://github.com/user-attachments/assets/f7983e8b-61f7-4c9b-a487-41f49c7c06fd" />
+<img width="1080" alt="Climate Status-Caution" src="https://github.com/user-attachments/assets/f7983e8b-61f7-4c9b-a487-41f49c7c06fd" />
 
-<img width="1080" height="1996" alt="Climate Status-Danger" src="https://github.com/user-attachments/assets/5d6a2361-f608-441f-8314-2ae55e518fd7" />
+<img width="1080" alt="Climate Status-Danger" src="https://github.com/user-attachments/assets/5d6a2361-f608-441f-8314-2ae55e518fd7" />
 
 ### 5. Daily Entry Validation and Reading Limit
 The system restricts the farmer to entering only three climate readings per day for each batch — Morning, Afternoon, and Evening. Once a reading for a particular time slot is already entered, the application prevents duplicate entry and displays a message such as “Morning entry has already been entered.”
 
-<img width="1080" height="1586" alt="Daily Entry Validation" src="https://github.com/user-attachments/assets/210a1e12-1dd7-4da0-be03-6aced1b4144f" />
+<img width="1080" alt="Daily Entry Validation" src="https://github.com/user-attachments/assets/210a1e12-1dd7-4da0-be03-6aced1b4144f" />
 
-<img width="1079" height="1383" alt="duplicate entry" src="https://github.com/user-attachments/assets/23d3b83d-4b71-4e5f-8334-88dc758d9279" />
+<img width="1079" alt="duplicate entry" src="https://github.com/user-attachments/assets/23d3b83d-4b71-4e5f-8334-88dc758d9279" />
 
 ### 6. Smart Advisory
 AI-generated suggestions based on climate conditions.
 
-<img width="1080" height="1110" alt="Smart Advisory-Safe" src="https://github.com/user-attachments/assets/8e89916b-b44f-4410-9a19-1a8f3f9d533d" />
+<img width="1080" alt="Smart Advisory-Safe" src="https://github.com/user-attachments/assets/8e89916b-b44f-4410-9a19-1a8f3f9d533d" />
 
-<img width="1080" height="1161" alt="Smart Advisory-Caution" src="https://github.com/user-attachments/assets/e982aaf5-ba9a-48be-801a-79483780c02a" />
+<img width="1080" alt="Smart Advisory-Caution" src="https://github.com/user-attachments/assets/e982aaf5-ba9a-48be-801a-79483780c02a" />
 
-<img width="1080" height="1077" alt="Smart Advisory-Danger" src="https://github.com/user-attachments/assets/cba7a6ac-9b1c-4c34-a650-a9822567325b" />
+<img width="1080" alt="Smart Advisory-Danger" src="https://github.com/user-attachments/assets/cba7a6ac-9b1c-4c34-a650-a9822567325b" />
 
 ### 7. Batch History
 View ongoing and completed batches with logs.
 
-<img width="1080" height="2167" alt="Batch History" src="https://github.com/user-attachments/assets/ef35f69f-d813-40c8-b302-13a83cf13542" />
+<img width="1080" alt="Batch History" src="https://github.com/user-attachments/assets/ef35f69f-d813-40c8-b302-13a83cf13542" />
 
 ### 8. Harvest Record
 Once a silkworm batch is completed, the application allows the farmer to enter cocoon yield in kilograms and optional notes. After clicking Save Harvest Record, the details are stored and added to the Batch History section for future reference.
 
-<img width="1080" height="2166" alt="Harvest Record" src="https://github.com/user-attachments/assets/62655c22-76eb-4e2b-90dc-9b3cf0debde9" />
+<img width="1080" alt="Harvest Record" src="https://github.com/user-attachments/assets/62655c22-76eb-4e2b-90dc-9b3cf0debde9" />
 
-<img width="1080" height="2166" alt="Harvest Record" src="https://github.com/user-attachments/assets/bd6c24f8-9345-47fb-965a-a5165653ef42" />
+<img width="1080" alt="Harvest Record" src="https://github.com/user-attachments/assets/bd6c24f8-9345-47fb-965a-a5165653ef42" />
 
-<img width="1080" height="2166" alt="Harvest Record" src="https://github.com/user-attachments/assets/cc5e3353-4737-4d6b-b7f6-fbf3994db717" />
+<img width="1080" alt="Harvest Record" src="https://github.com/user-attachments/assets/cc5e3353-4737-4d6b-b7f6-fbf3994db717" />
 
 ### 9. Harvest Notification 
 Sends notification when the batch reaches harvest stage
 
-<img width="1077" height="1398" alt="Harvest Notification " src="https://github.com/user-attachments/assets/5b181477-65db-494d-9f68-d4175781832f" />
+<img width="1077" alt="Harvest Notification " src="https://github.com/user-attachments/assets/5b181477-65db-494d-9f68-d4175781832f" />
 
 ## 🚀 Setup & Installation
 
